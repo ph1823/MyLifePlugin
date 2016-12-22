@@ -1,0 +1,17 @@
+main: fr.ph1823.GloryRP.GloryRP1
+name: MyLife1
+author: ph1823
+version : Alpha-0.0.1
+commands:
+   me:
+     usage: /me
+   clearchat:
+     usage: /clearchat
+   lag:
+     usage: /tps
+   police:
+     usage: /police msg
+   staffco:
+     usage: /staffco
+   adminbc:
+     usage: /adminbc msg
